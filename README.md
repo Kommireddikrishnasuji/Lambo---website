@@ -15,3 +15,8 @@ It’s ideal as a **portfolio project** or **UI inspiration** for automotive web
 ✔ No dependencies (pure HTML/CSS/JS)
 
 ## 📁 Project Structure
+lambo-website-concept/
+│── img/ # Images used in the project
+│── index.html # Main HTML layout
+│── style.css # CSS styles
+└── app.js
